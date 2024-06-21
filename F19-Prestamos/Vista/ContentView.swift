@@ -43,7 +43,7 @@ struct ContentView: View {
                     } label: {
                         Image(systemName: "line.3.horizontal.decrease.circle")
                             .font(.title)
-                            .padding(16)
+                            .padding(15)
                     }
                 }
             }
